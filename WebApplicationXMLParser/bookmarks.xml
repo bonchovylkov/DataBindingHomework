@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" ?>
+<bookmarks>
+  <bookmark>
+    <username>peter</username>
+    <password>tajna!%$^12112</password>
+    <title>Nakov's books</title>
+    <url>http://www.nakov.com/books/</url>
+    <tags>nakov, programming, book</tags>
+  </bookmark>
+  <bookmark>
+    <username>todor</username>
+    <title>HTML 5 Demos and Examples</title>
+    <url>http://html5demos.com</url>
+    <tags>HTML, HTML5, CSS, CSS3, Web development, web</tags>
+  </bookmark>
+</bookmarks>
